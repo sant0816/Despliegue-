@@ -1,7 +1,7 @@
 import 'package:flutter/material.dart';
 import 'package:flutter_application_4/views/loginScreen.dart';
 import 'package:flutter_application_4/views/menuDrawerPerfil.dart';
-import 'package:flutter_application_4/views/detalleVehiculo.dart'; // Asegúrate de que esta ruta esté correcta
+import 'package:flutter_application_4/views/detalleVehiculo.dart'; 
 
 class Menuprincipal extends StatefulWidget {
   const Menuprincipal({super.key});

@@ -102,7 +102,7 @@ class _LoginScreenState extends State<LoginScreen> {
                 children: [
                   Text("¿Olvidaste tu contraseña?", style: TextStyle(color: texto)),
                   TextButton(
-                    onPressed: () {}, // Implementar luego
+                    onPressed: () {}, 
                     child: Text(
                       "Recuperar",
                       style: TextStyle(color: encabezado, fontWeight: FontWeight.bold),

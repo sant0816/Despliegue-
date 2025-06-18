@@ -65,8 +65,7 @@ class _MenuDrawerPerfilState extends State<MenuDrawerPerfil> {
           ListTile(
             leading: Icon(Icons.search_rounded, color: Color(0xFFFF9149)),
             title: Text("Revisar Alquileres"),
-            onTap: () {
-              // Acción revisar alquileres
+            onTap: () { 
             },
           ),
         ],
