@@ -1,5 +1,5 @@
 import 'package:flutter/material.dart';
-import 'package:flutter_application_4/views/metodoPago.dart';
+import 'package:flutter_application_4/views/metodoPago.dart';     
 
 class VehicleDetailScreen extends StatelessWidget {
   final Map<String, dynamic> vehiculo;
